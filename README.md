@@ -1,12 +1,14 @@
 # dissertacaoPUCRio
-Repositório com arquivos de elaboração da dissertação. <br>
+Repositório com arquivos de elaboração da Dissertação de Mestrado – Departamento de Engenharia de Elétrica, PUC-Rio. <br>
+Orientador e Co-orientador: Prof. Dr. Cristiano A. C. Fernandes e Prof. Dr. Pedro G. Costa Ferreira <br>
+
 Contém funções, o documento e a apresentação final. <br>
 **Use e compartilhe à vontade, mas dê os devidos créditos.**
 
-## Objetivo
+## Objetivo do estudo
 Propor uma nova medida de núcleo de inflação que auxilie o Banco Central na condução da política monetária.
 
-## Resumo
+## Resumo + resultados encontrados
 1. Núcleos da inflação são uma das ferramentas usadas pelos bancos centrais como suporte na condução da política monetária.
 2. Existem várias formas de se estimar um núcleo.
 3. No Brasil, os núcleos não trazem grande informação sobre a tendência dos preços.
@@ -18,7 +20,7 @@ Propor uma nova medida de núcleo de inflação que auxilie o Banco Central na c
 estimar modelos econométricos para avaliar o impacto da utilização do núcleo na previsão.
   
 ## Bônus 
-As duas metodologias propostas podem ser facilmente recalculadas, uma vez que os
+As duas metodologias propostas no estudo podem ser facilmente recalculadas, uma vez que os
 códigos de implementação estão disponíveis aqui gratuitamente para qualquer
-usuário interessado, e também podem ser replicadas para outros índices de
+usuário interessado. As metodologias também podem ser replicadas para outros índices de
 inflação.
